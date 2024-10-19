@@ -1564,5 +1564,125 @@
   {
     "query": "I need some quiet time. Can you stop the audio playback?",
     "label": "10"
+  },
+  {
+    "query": "Can you read out my latest messages?",
+    "label": "24"
+  },
+  {
+    "query": "Please send 'I'll be late' to Sarah.",
+    "label": "25"
+  },
+  {
+    "query": "Would you mind reading my notifications aloud?",
+    "label": "24"
+  },
+  {
+    "query": "Text Mike that the meeting is cancelled.",
+    "label": "25"
+  },
+  {
+    "query": "Read this out loud for me.",
+    "label": "24"
+  },
+  {
+    "query": "Send a message to David saying I'm on my way.",
+    "label": "25"
+  },
+  {
+    "query": "I need to hear my messages, can you read them?",
+    "label": "24"
+  },
+  {
+    "query": "Forward this to Jennifer please.",
+    "label": "25"
+  },
+  {
+    "query": "Announce my unread messages.",
+    "label": "24"
+  },
+  {
+    "query": "Could you possibly message Alex about tomorrow's schedule?",
+    "label": "25"
+  },
+  {
+    "query": "Speak out what's in my inbox.",
+    "label": "24"
+  },
+  {
+    "query": "Tell Emma I'll be there in 10 minutes.",
+    "label": "25"
+  },
+  {
+    "query": "I'd like to hear my messages read aloud.",
+    "label": "24"
+  },
+  {
+    "query": "Message the team about the delay.",
+    "label": "25"
+  },
+  {
+    "query": "Voice out my recent notifications.",
+    "label": "24"
+  },
+  {
+    "query": "Send 'Happy Birthday' to Mom.",
+    "label": "25"
+  },
+  {
+    "query": "Read aloud what just came in.",
+    "label": "24"
+  },
+  {
+    "query": "Can you text Lisa about the change of plans?",
+    "label": "25"
+  },
+  {
+    "query": "Let me hear what that message says.",
+    "label": "24"
+  },
+  {
+    "query": "Please message Charlie with the update.",
+    "label": "25"
+  },
+  {
+    "query": "Um, could you maybe read my messages out?",
+    "label": "24"
+  },
+  {
+    "query": "Send this document to the project manager.",
+    "label": "25"
+  },
+  {
+    "query": "Vocalize my incoming messages.",
+    "label": "24"
+  },
+  {
+    "query": "Text this address to James, please.",
+    "label": "25"
+  },
+  {
+    "query": "I need those messages read out loud now.",
+    "label": "24"
+  },
+  {
+    "query": "Forward the meeting details to the team.",
+    "label": "25"
+  },
+  {
+    "query": "Just read everything in my inbox aloud.",
+    "label": "24"
+  },
+  {
+    "query": "Would you mind sending this to Robert?",
+    "label": "25"
+  },
+  {
+    "query": "Give me an audio version of my messages.",
+    "label": "24"
+  },
+  {
+    "query": "Shoot a quick text to Karen about dinner.",
+    "label": "25"
   }
 ]
