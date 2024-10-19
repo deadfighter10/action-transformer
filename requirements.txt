@@ -1,0 +1,5 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+torch.nn
+nltk
+pprint
+torchvision
