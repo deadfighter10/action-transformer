@@ -1,5 +1,6 @@
 <html lang="en">
 <body>
+
 # <h1 style="font-family: Garamond">Enhanced Action Representation and Classification Using High-Dimensional Embeddings and Transformer Architectures</h1>
 
 ## Abstract
