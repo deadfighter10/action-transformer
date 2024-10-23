@@ -1,3 +1,5 @@
+<html lang="en">
+<body>
 # <h1 style="font-family: Garamond">Enhanced Action Representation and Classification Using High-Dimensional Embeddings and Transformer Architectures</h1>
 
 ## Abstract
@@ -105,3 +107,5 @@ The use of self-attention allowed the model to focus on the important words with
 [4] Sutskever, I., et al. "Sequence to sequence learning with neural networks." Advances in neural information processing systems (2014).<br>
 [5] Brown, T., et al. "Language models are few-shot learners." Advances in neural information processing systems (2020).<br>
 [6] Pennington, J., et al. "GloVe: Global vectors for word representation." Proceedings of the 2014 conference on empirical methods in natural language processing (2014).
+</body>
+<html>
